@@ -1,0 +1,13 @@
+bcrypt
+dotenv
+jsonwebtoken
+koa
+koa-bodyparser
+koa-cors
+koa-jwt
+koa-router
+nodemon
+npm
+
+OPTIONAL: 
+VSCode extension : REST Client (for requests.rest)

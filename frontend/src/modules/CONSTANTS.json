@@ -1,0 +1,4 @@
+{
+    "INTERFACE_API_LOCATION": "http://localhost:5000/",
+    "JWT_COOKIE_NAME": "auth_token"
+}
